@@ -1,1 +1,1 @@
-Rebase test - change 2
+Squash test - change 1
